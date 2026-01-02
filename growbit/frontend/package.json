@@ -1,0 +1,50 @@
+{
+  "name": "mmobit-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "vue-cli-service build"
+  },
+  "engines": {
+    "node": "18.18.0"
+  },
+  "dependencies": {
+    "@hcaptcha/vue-hcaptcha": "^0.3.2",
+    "@webzlodimir/vue-bottom-sheet-vue2": "^0.0.9",
+    "axios": "^0.27.2",
+    "chance": "^1.1.12",
+    "core-js": "^3.6.5",
+    "crypto-js": "^4.2.0",
+    "gsap": "^3.12.5",
+    "jdenticon": "^3.3.0",
+    "jquery": "^3.7.1",
+    "jquery-ui": "^1.14.1",
+    "js-crypto-hmac": "^1.0.7",
+    "js-sha256": "^0.11.0",
+    "nvm": "^0.0.4",
+    "qrcode": "^1.5.1",
+    "sass": "^1.80.5",
+    "sass-loader": "^10.5.2",
+    "socket.io-client": "^4.6.1",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^4.1.2",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.3",
+    "@vue/cli-plugin-router": "~4.5.3",
+    "@vue/cli-plugin-vuex": "~4.5.3",
+    "@vue/cli-service": "~4.5.3",
+    "vue-svg-loader": "^0.16.0",
+    "vue-template-compiler": "^2.7.16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

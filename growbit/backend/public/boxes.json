@@ -1,0 +1,2676 @@
+[
+  {
+    "_id": "daily",
+    "caseName": "Daily case",
+    "reward": true,
+    "daily": true,
+    "casePrice": 99999,
+    "image": "dailycase.png",
+    "volatility": "medium",
+    "items": [
+      {
+        "itemName": "Cardboard Nessie",
+        "itemPrice": 17.5,
+        "frequency": 0.0117,
+        "image": "cardboard-nessie.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Intergalactic Warrior Hair",
+        "itemPrice": 8,
+        "frequency": 0.0173,
+        "image": "intergalactic-warrior-hair.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Golden Apple",
+        "itemPrice": 7,
+        "frequency": 0.0185,
+        "image": "golden-apple.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Winter Frost Bow",
+        "itemPrice": 5,
+        "frequency": 0.0218,
+        "image": "winter-frost-bow.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "The Fattenator",
+        "itemPrice": 3,
+        "frequency": 0.0282,
+        "image": "the-fattenator.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Glowy Cape",
+        "itemPrice": 2,
+        "frequency": 0.0345,
+        "image": "glowy-cape.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Angel Wings",
+        "itemPrice": 1,
+        "frequency": 0.0488,
+        "image": "angel-wings.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Burning Hands",
+        "itemPrice": 1,
+        "frequency": 0.0488,
+        "image": "burning-hands.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Spirit Guide",
+        "itemPrice": 0.7,
+        "frequency": 0.0584,
+        "image": "spirit-guide.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Snowfrost's Candy Cane Blade",
+        "itemPrice": 0.5,
+        "frequency": 0.0691,
+        "image": "snowfrosts-candy-cane-blade.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Growboard",
+        "itemPrice": 0.2,
+        "frequency": 0.1545,
+        "image": "growboard.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.4884,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "phoenix",
+    "caseName": "Phoenix",
+    "casePrice": 107.5,
+    "image": "phoenix.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.37,
+    "items": [
+      {
+        "itemName": "Phoenix Wings",
+        "itemPrice": 3750,
+        "frequency": 0.008,
+        "image": "phoenixwings.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Phoenix Scarf",
+        "itemPrice": 325,
+        "frequency": 0.06,
+        "image": "phoenixscarf.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Phoenix Crown",
+        "itemPrice": 150,
+        "frequency": 0.095,
+        "image": "phoenixcrown.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Armor",
+        "itemPrice": 150,
+        "frequency": 0.095,
+        "image": "phoenixarmor.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Mantle",
+        "itemPrice": 37.5,
+        "frequency": 0.17,
+        "image": "phoenixmantle.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Phoenix Sword",
+        "itemPrice": 50,
+        "frequency": 0.16,
+        "image": "phoenixsword.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Phoenix Pacifier",
+        "itemPrice": 65,
+        "frequency": 0.12,
+        "image": "phoenixpacifier.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Lava",
+        "itemPrice": 0.01,
+        "frequency": 0.292,
+        "image": "lava.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "ultraviolet",
+    "caseName": "Ultraviolet",
+    "casePrice": 9.56,
+    "image": "ultraviolet.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.13,
+    "items": [
+      {
+        "itemName": "Ultraviolet Aura",
+        "itemPrice": 90,
+        "frequency": 0.022,
+        "image": "ultravioletaura.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Ultraviolet Sword",
+        "itemPrice": 50,
+        "frequency": 0.04,
+        "image": "ultravioletsword.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Ultraviolet Charm",
+        "itemPrice": 2.5,
+        "frequency": 0.22,
+        "image": "ultravioletcharm.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Ultraviolet Wings",
+        "itemPrice": 60,
+        "frequency": 0.035,
+        "image": "ultravioletwings.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Black Ultraviolet Sword",
+        "itemPrice": 17.5,
+        "frequency": 0.07,
+        "image": "blackultravioletsword.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Black Ultraviolet Charm",
+        "itemPrice": 9,
+        "frequency": 0.115,
+        "image": "blackultravioletcharm.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Amethyst Block",
+        "itemPrice": 0.01,
+        "frequency": 0.498,
+        "image": "amethystblock.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "nurge",
+    "caseName": "Nurge",
+    "casePrice": 3.1,
+    "image": "nurge.png",
+    "volatility": "mid",
+    "volatilityNumber": 1.78,
+    "items": [
+      {
+        "itemName": "Astral Aura - Dragon",
+        "itemPrice": 40,
+        "frequency": 0.012,
+        "image": "astralauradragon.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Lembuswana Trident",
+        "itemPrice": 8,
+        "frequency": 0.08,
+        "image": "lembuswanatrident.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Shark Head",
+        "itemPrice": 3.5,
+        "frequency": 0.16,
+        "image": "sharkhead.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Moyaimorph",
+        "itemPrice": 8,
+        "frequency": 0.08,
+        "image": "moyaimorph.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Riding Chicken",
+        "itemPrice": 0.01,
+        "frequency": 0.25,
+        "image": "ridingchicken.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Ruby Necklace",
+        "itemPrice": 0.001,
+        "frequency": 0.25,
+        "image": "rubynecklace.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Falming Horsie",
+        "itemPrice": 5.5,
+        "frequency": 0.098,
+        "image": "falminghorsie.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.07,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "anubis",
+    "caseName": "Anubis",
+    "casePrice": 7.97,
+    "image": "anubis.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.61,
+    "items": [
+      {
+        "itemName": "Spirit of Anubis",
+        "itemPrice": 150,
+        "frequency": 0.018,
+        "image": "spiritofanubis.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Sun Blade",
+        "itemPrice": 125,
+        "frequency": 0.023,
+        "image": "sunblade.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Anubis Mask",
+        "itemPrice": 3.5,
+        "frequency": 0.22,
+        "image": "anubismask.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Anubis Pharaoh Mask",
+        "itemPrice": 5,
+        "frequency": 0.18,
+        "image": "anubispharaohmask.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Anubis Mail",
+        "itemPrice": 0.5,
+        "frequency": 0.25,
+        "image": "anubismail.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Anubis Boots",
+        "itemPrice": 0.25,
+        "frequency": 0.18,
+        "image": "anubisboots.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Sand",
+        "itemPrice": 0.01,
+        "frequency": 0.129,
+        "image": "sand.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "fishing",
+    "caseName": "Fishing",
+    "casePrice": 2.7,
+    "image": "fishing.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.81,
+    "items": [
+      {
+        "itemName": "Fishing Hat",
+        "itemPrice": 185,
+        "frequency": 0.003,
+        "image": "fishinghat.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Goldenrod",
+        "itemPrice": 5.5,
+        "frequency": 0.09,
+        "image": "goldenrod.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Thanksgiving Dinner Fishing Rod",
+        "itemPrice": 7,
+        "frequency": 0.075,
+        "image": "thanksgivingdinnerfishingrod.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Cursed Fishing Rod",
+        "itemPrice": 3,
+        "frequency": 0.15,
+        "image": "cursedfishingrod.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Reliable Anomarod",
+        "itemPrice": 0.1,
+        "frequency": 0.27,
+        "image": "reliableanomarod.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Shark Head",
+        "itemPrice": 3.5,
+        "frequency": 0.13,
+        "image": "sharkhead.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Water Bucket",
+        "itemPrice": 0.01,
+        "frequency": 0.282,
+        "image": "waterbucket.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "aura",
+    "caseName": "Aura",
+    "casePrice": 5.03,
+    "image": "aura.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.63,
+    "items": [
+      {
+        "itemName": "Golden Heart Aura",
+        "itemPrice": 350,
+        "frequency": 0.001,
+        "image": "goldenheartaura.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Ultraviolet Aura",
+        "itemPrice": 90,
+        "frequency": 0.005,
+        "image": "ultravioletaura.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Astral Aura - Rabbit",
+        "itemPrice": 10,
+        "frequency": 0.04,
+        "image": "astralaurarabbit.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Astral Aura - Dragon",
+        "itemPrice": 20,
+        "frequency": 0.02,
+        "image": "astralauradragon.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Astral Aura - Lion",
+        "itemPrice": 12.5,
+        "frequency": 0.035,
+        "image": "astralauralion.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Oceanaura",
+        "itemPrice": 16.75,
+        "frequency": 0.027,
+        "image": "oceanaura.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Golden Aura",
+        "itemPrice": 7.5,
+        "frequency": 0.06,
+        "image": "goldenaura.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Black Aura",
+        "itemPrice": 5,
+        "frequency": 0.09,
+        "image": "blackaura.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Pink Aura",
+        "itemPrice": 2.5,
+        "frequency": 0.18,
+        "image": "pinkaura.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Blue Aura",
+        "itemPrice": 2.5,
+        "frequency": 0.18,
+        "image": "blueaura.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Flaming Aura",
+        "itemPrice": 5,
+        "frequency": 0.09,
+        "image": "flamingaura.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.272,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+
+  {
+    "_id": "risk",
+    "caseName": "Risk",
+    "casePrice": 2.21,
+    "image": "risk.png",
+    "volatility": "high",
+    "volatilityNumber": 15.44,
+    "items": [
+      {
+        "itemName": "WOTD Trophy",
+        "itemPrice": 1000,
+        "frequency": 0.001,
+        "image": "wotdtrophy.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Challenge Crown",
+        "itemPrice": 15,
+        "frequency": 0.07,
+        "image": "challengecrown.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Potted Daisy",
+        "itemPrice": 0.01,
+        "frequency": 0.464,
+        "image": "potteddaisy.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.465,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "razor",
+    "caseName": "Razor",
+    "casePrice": 0.34,
+    "image": "razor.png",
+    "volatility": "low",
+    "volatilityNumber": 0.68,
+    "items": [
+      {
+        "itemName": "Golden Razor Wings",
+        "itemPrice": 2,
+        "frequency": 0.13,
+        "image": "goldenrazorwings.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Ripper Wings",
+        "itemPrice": 0.05,
+        "frequency": 0.4,
+        "image": "ripperwings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Diamond Wings",
+        "itemPrice": 0.1,
+        "frequency": 0.33,
+        "image": "diamondwings.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Fairy Wings",
+        "itemPrice": 0.01,
+        "frequency": 0.14,
+        "image": "fairywings.png",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_id": "neptune",
+    "caseName": "Neptune",
+    "casePrice": 180,
+    "image": "neptune.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.27,
+    "items": [
+      {
+        "itemName": "Neptune's Trident",
+        "itemPrice": 5000,
+        "frequency": 0.001,
+        "image": "neptunestrident.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Neptune's Crown",
+        "itemPrice": 2750,
+        "frequency": 0.005,
+        "image": "neptunescrown.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Neptune's Chariot",
+        "itemPrice": 2500,
+        "frequency": 0.015,
+        "image": "neptuneschariot.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Neptune Armor",
+        "itemPrice": 2250,
+        "frequency": 0.035,
+        "image": "neptunearmor.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Weather Machine - Atlantis",
+        "itemPrice": 180,
+        "frequency": 0.15,
+        "image": "weathermachineatlantis.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Sand",
+        "itemPrice": 0.01,
+        "frequency": 0.794,
+        "image": "sand.png",
+        "rarity": 1
+      }
+    ]
+  },
+
+  {
+    "_id": "davinci",
+    "caseName": "Da Vinci",
+    "casePrice": 50,
+    "image": "davinci.png",
+    "volatility": "high",
+    "volatilityNumber": 6.08,
+    "items": [
+      {
+        "itemName": "Da Vinci Wings",
+        "itemPrice": 2500,
+        "frequency": 0.015,
+        "image": "davinciwings.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Fire Wand",
+        "itemPrice": 47.5,
+        "frequency": 0.175,
+        "image": "firewand.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.81,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+
+  {
+    "_id": "100x",
+    "caseName": "100x",
+    "casePrice": 0.01,
+    "image": "100x.png",
+    "volatility": "high",
+    "volatilityNumber": 10.49,
+    "items": [
+      {
+        "itemName": "Diamond Lock",
+        "itemPrice": 1,
+        "frequency": 0.009,
+        "image": "diamondlock.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Small Lock",
+        "itemPrice": 0.0,
+        "frequency": 0.991,
+        "image": "smalllock.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "pgtsdesk",
+    "caseName": "PGT's Desk",
+    "casePrice": 1,
+    "image": "pgtsdesk.png",
+    "volatility": "low",
+    "volatilityNumber": 0.0,
+    "items": [
+      {
+        "itemName": "Dice",
+        "itemPrice": 2,
+        "frequency": 0.48,
+        "image": "dice.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "No Dice",
+        "itemPrice": 0,
+        "frequency": 0.51999,
+        "image": "nodice.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Missing Screw",
+        "itemPrice": 1000,
+        "frequency": 0.00001,
+        "image": "missingscrew.png",
+        "rarity": 7
+      }
+    ]
+  },
+
+  {
+    "_id": "bronze",
+    "reward": true,
+    "level": 1,
+    "caseName": "Bronze Case",
+    "casePrice": 99999999,
+    "image": "bronzecase.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.574,
+    "items": [
+      {
+        "itemName": "Sand",
+        "itemPrice": 0.01,
+        "frequency": 0.5,
+        "image": "sand.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Diamond Lock",
+        "itemPrice": 1,
+        "frequency": 0.1,
+        "image": "diamondlock.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Crystal Crown",
+        "itemPrice": 5,
+        "frequency": 0.1,
+        "image": "crystalcrown.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Astral Aura - Rabbit",
+        "itemPrice": 10,
+        "frequency": 0.1,
+        "image": "astralaurarabbit.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Ruby Lock",
+        "itemPrice": 20,
+        "frequency": 0.05,
+        "image": "rubylock.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Spooky Stained Glass Scepter",
+        "itemPrice": 20,
+        "frequency": 0.05,
+        "image": "spookystainedglassscepter.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Astral Aura - Dragon",
+        "itemPrice": 20,
+        "frequency": 0.05,
+        "image": "astralauradragon.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Xenonite Crystal",
+        "itemPrice": 25,
+        "frequency": 0.046,
+        "image": "xenonitecrystal.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "WOTD Trophy",
+        "itemPrice": 1000,
+        "frequency": 0.004,
+        "image": "wotdtrophy.png",
+        "rarity": 8
+      }
+    ]
+  },
+  {
+    "_id": "silver",
+    "reward": true,
+    "level": 2,
+    "caseName": "Silver Case",
+    "casePrice": 99999999,
+    "image": "silvercase.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.574,
+
+    "items": [
+      {
+        "itemName": "Cobweb",
+        "itemPrice": 0.01,
+        "frequency": 0.5,
+        "image": "cobweb.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Robotic Lock",
+        "itemPrice": 2.5,
+        "frequency": 0.1,
+        "image": "roboticlock.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Cursed Heart Break Wings",
+        "itemPrice": 12.5,
+        "frequency": 0.1,
+        "image": "cursedheartbreakwings.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Astral Aura - Lion",
+        "itemPrice": 25,
+        "frequency": 0.1,
+        "image": "astralaura-lion.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Sword",
+        "itemPrice": 50,
+        "frequency": 0.05,
+        "image": "phoenixsword.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Ultraviolet Sword",
+        "itemPrice": 50,
+        "frequency": 0.05,
+        "image": "ultravioletsword.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Snow Leopard Shawl",
+        "itemPrice": 50,
+        "frequency": 0.05,
+        "image": "snowleopardshawl.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Mantle",
+        "itemPrice": 62.5,
+        "frequency": 0.046,
+        "image": "phoenixmantle.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Neptune's Crown",
+        "itemPrice": 2500,
+        "frequency": 0.004,
+        "image": "neptunescrown.png",
+        "rarity": 8
+      }
+    ]
+  },
+  {
+    "_id": "gold",
+    "reward": true,
+    "level": 3,
+    "caseName": "Gold Case",
+    "casePrice": 99999999,
+    "image": "goldcase.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.574,
+    "items": [
+      {
+        "itemName": "World Lock",
+        "itemPrice": 0.01,
+        "frequency": 0.5,
+        "image": "worldlock.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Steampunk Lock",
+        "itemPrice": 5,
+        "frequency": 0.1,
+        "image": "steampunklock.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Golden Aura",
+        "itemPrice": 25,
+        "frequency": 0.1,
+        "image": "goldenaura.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Ultraviolet Aura",
+        "itemPrice": 50,
+        "frequency": 0.1,
+        "image": "ultravioletaura.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Blue Gem Lock",
+        "itemPrice": 100,
+        "frequency": 0.05,
+        "image": "bluegemlock.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Crystal Infused Sword",
+        "itemPrice": 100,
+        "frequency": 0.05,
+        "image": "crystalinfusedsword.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Spirit of Anubis",
+        "itemPrice": 100,
+        "frequency": 0.05,
+        "image": "spiritofanubis.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Weather Machine - Atlantis",
+        "itemPrice": 125,
+        "frequency": 0.046,
+        "image": "weathermachineatlantis.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Neptune's Chariot",
+        "itemPrice": 5000,
+        "frequency": 0.004,
+        "image": "neptuneschariot.png",
+        "rarity": 8
+      }
+    ]
+  },
+  {
+    "_id": "sapphire",
+    "reward": true,
+    "level": 4,
+    "caseName": "Sapphire Case",
+    "casePrice": 99999999,
+    "image": "sapphirecase.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.574,
+    "items": [
+      {
+        "itemName": "Candy Corn",
+        "itemPrice": 0.01,
+        "frequency": 0.5,
+        "image": "candycorn.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Dark Sunset Cape",
+        "itemPrice": 7.5,
+        "frequency": 0.1,
+        "image": "darksunsetcape.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Phoenix Mantle",
+        "itemPrice": 37.5,
+        "frequency": 0.1,
+        "image": "phoenixmantle.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Emerald Lock",
+        "itemPrice": 75,
+        "frequency": 0.1,
+        "image": "emeraldlock.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Crown",
+        "itemPrice": 150,
+        "frequency": 0.05,
+        "image": "phoenixcrown.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Armor",
+        "itemPrice": 150,
+        "frequency": 0.05,
+        "image": "phoenixarmor.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "The Beast with a Thousand Eyes Mask",
+        "itemPrice": 150,
+        "frequency": 0.05,
+        "image": "thebeastwiththousandeyes.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Fishing Hat",
+        "itemPrice": 185,
+        "frequency": 0.046,
+        "image": "fishinghat.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Da Vinci Wings",
+        "itemPrice": 7500,
+        "frequency": 0.004,
+        "image": "davinciwings.png",
+        "rarity": 8
+      }
+    ]
+  },
+  {
+    "_id": "emerald",
+    "reward": true,
+    "level": 5,
+    "caseName": "Emerald Case",
+    "casePrice": 99999999,
+    "image": "emeraldcase.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.574,
+
+    "items": [
+      {
+        "itemName": "Water Bucket",
+        "itemPrice": 0.01,
+        "frequency": 0.5,
+        "image": "waterbucket.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Zephyr Helm",
+        "itemPrice": 10,
+        "frequency": 0.1,
+        "image": "zephyrhelm.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Guardian Pineapple",
+        "itemPrice": 50,
+        "frequency": 0.1,
+        "image": "guardianpineapple.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Golden Heart Aura",
+        "itemPrice": 100,
+        "frequency": 0.1,
+        "image": "goldenheartaura.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Phoenix Scarf",
+        "itemPrice": 200,
+        "frequency": 0.05,
+        "image": "phoenixscarf.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Royal Lock",
+        "itemPrice": 200,
+        "frequency": 0.05,
+        "image": "royallock.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Growscan 9000",
+        "itemPrice": 200,
+        "frequency": 0.05,
+        "image": "growscan9000.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Hovernator Drone - Golden",
+        "itemPrice": 250,
+        "frequency": 0.046,
+        "image": "hovernatordronegolden.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Neptune's Trident",
+        "itemPrice": 10000,
+        "frequency": 0.004,
+        "image": "neptunestrident.png",
+        "rarity": 8
+      }
+    ]
+  },
+
+  {
+    "_id": "draconic",
+    "caseName": "Draconic",
+    "casePrice": 7.93,
+    "image": "draconic.png",
+    "volatility": "mid",
+    "volatilityNumber": 4.2595,
+    "items": [
+      {
+        "itemName": "Draconic Wings",
+        "itemPrice": 350,
+        "frequency": 0.0144,
+        "image": "draconic-wings.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Draconic Crown",
+        "itemPrice": 10,
+        "frequency": 0.0859,
+        "image": "draconic-crown.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Draconic Rocket Parasol",
+        "itemPrice": 7.5,
+        "frequency": 0.0992,
+        "image": "draconic-rocket-parasol.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Fire Wand",
+        "itemPrice": 7.5,
+        "frequency": 0.0992,
+        "image": "firewand.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Dragon Hand",
+        "itemPrice": 0.15,
+        "frequency": 0.7013,
+        "image": "dragon-hand.png",
+        "rarity": 1
+      }
+    ]
+  },
+
+  {
+    "_id": "dracula",
+    "caseName": "Dracula",
+    "casePrice": 0.59,
+    "image": "dracula.png",
+    "volatility": "low",
+    "volatilityNumber": 0.87,
+    "items": [
+      {
+        "itemName": "Inside Out Cape",
+        "itemPrice": 5,
+        "frequency": 0.0798,
+        "image": "inside-out-vampire-cape.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Vampire Cape",
+        "itemPrice": 1,
+        "frequency": 0.1192,
+        "image": "vampire-cape.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Riding Demon Dog",
+        "itemPrice": 0.1,
+        "frequency": 0.212,
+        "image": "riding-demon-dog.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Weather Machine - Spooky",
+        "itemPrice": 0.1,
+        "frequency": 0.212,
+        "image": "weather-machine-spooky.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Vampire Fangs",
+        "itemPrice": 0.01,
+        "frequency": 0.377,
+        "image": "vampire-fangs.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "farmer",
+    "caseName": "Farmer",
+    "casePrice": 0.74,
+    "image": "farmer.png",
+    "volatility": "low",
+    "volatilityNumber": 0.99,
+    "items": [
+      {
+        "itemName": "Autumn Wings",
+        "itemPrice": 5,
+        "frequency": 0.0748,
+        "image": "autumn-wings.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Chicken Plow",
+        "itemPrice": 3,
+        "frequency": 0.085,
+        "image": "chicken-plow.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Harvester",
+        "itemPrice": 0.5,
+        "frequency": 0.133,
+        "image": "harvester.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Pickaxe",
+        "itemPrice": 0.01,
+        "frequency": 0.3536,
+        "image": "pickaxe.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Chandelier",
+        "itemPrice": 0.01,
+        "frequency": 0.3536,
+        "image": "chandelier.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "gamer",
+    "caseName": "Gamer",
+    "casePrice": 0.95,
+    "image": "gamer.png",
+    "volatility": "mid",
+    "volatilityNumber": 1.56,
+    "items": [
+      {
+        "itemName": "Resting Headphones",
+        "itemPrice": 5,
+        "frequency": 0.111,
+        "image": "resting-headphones.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Game Generator",
+        "itemPrice": 1,
+        "frequency": 0.2482,
+        "image": "game-generator.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Geiger Counter",
+        "itemPrice": 0.15,
+        "frequency": 0.6408,
+        "image": "geiger-counter.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "party",
+    "caseName": "Party",
+    "casePrice": 1.03,
+    "image": "party.png",
+    "volatility": "mid",
+    "volatilityNumber": 4.428,
+    "items": [
+      {
+        "itemName": "Party Blaster",
+        "itemPrice": 70,
+        "frequency": 0.0088,
+        "image": "party-blaster.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Partydactyl Wings",
+        "itemPrice": 6,
+        "frequency": 0.03,
+        "image": "partydactyl-wings.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Weather Machine - Party",
+        "itemPrice": 4,
+        "frequency": 0.0367,
+        "image": "weather-machine-party.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Party Confetti",
+        "itemPrice": 0.15,
+        "frequency": 0.1897,
+        "image": "party-confetti.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Party horn",
+        "itemPrice": 0.01,
+        "frequency": 0.7348,
+        "image": "party-horn.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "mines-bug",
+    "caseName": "Mines Bug",
+    "casePrice": 1.07,
+    "image": "mines-bug.png",
+    "volatility": "high",
+    "volatilityNumber": 93,
+    "items": [
+      {
+        "itemName": "Golden Broken Mine",
+        "itemPrice": 10000,
+        "frequency": 0.0001,
+        "image": "golden-malfunctioned-mine.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Broken Mine",
+        "itemPrice": 100,
+        "frequency": 0.0001,
+        "image": "malfunctioned-mine.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Cursed Wand",
+        "itemPrice": 1,
+        "frequency": 0.0001,
+        "image": "cursed-wand.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Ban",
+        "itemPrice": 0.01,
+        "frequency": 0.9997,
+        "image": "ban-sign.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "legendbot-009",
+    "caseName": "Legendbot-009",
+    "casePrice": 41.03,
+    "image": "legendbot-009.png",
+    "volatility": "mid",
+    "volatilityNumber": 4.2,
+    "items": [
+      {
+        "itemName": "Legendbot-009",
+        "itemPrice": 2500,
+        "frequency": 0.0095,
+        "image": "legendbot-009.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Mint Julep",
+        "itemPrice": 600,
+        "frequency": 0.0194,
+        "image": "mint-julep.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Thingamabob",
+        "itemPrice": 20,
+        "frequency": 0.1061,
+        "image": "thingamabob.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Doodad",
+        "itemPrice": 6,
+        "frequency": 0.1938,
+        "image": "doodad.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Legendary Orb",
+        "itemPrice": 0.5,
+        "frequency": 0.6712,
+        "image": "legendary-orb.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "legendary-katana",
+    "caseName": "Legendary Katana",
+    "casePrice": 1.96,
+    "image": "legendary-katana.png",
+    "volatility": "high",
+    "volatilityNumber": 19.3,
+    "items": [
+      {
+        "itemName": "Legendary Katana",
+        "itemPrice": 2500,
+        "frequency": 0.0002,
+        "image": "legendary-katana.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Heavenly Scythe",
+        "itemPrice": 450,
+        "frequency": 0.001,
+        "image": "heavenly-scythe.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Golden Apple",
+        "itemPrice": 7,
+        "frequency": 0.0666,
+        "image": "golden-apple.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Legendary Orb",
+        "itemPrice": 0.5,
+        "frequency": 0.9322,
+        "image": "legendary-orb.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "golden-boy",
+    "caseName": "Golden Boy",
+    "casePrice": 45.71,
+    "image": "golden-boy.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.8,
+    "items": [
+      {
+        "itemName": "Golden Angel Wings",
+        "itemPrice": 450,
+        "frequency": 0.0497,
+        "image": "goldenangelwings.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Golden Diaper",
+        "itemPrice": 400,
+        "frequency": 0.0513,
+        "image": "goldendiaper.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Super Golden Booty Chest",
+        "itemPrice": 3,
+        "frequency": 0.1742,
+        "image": "super-golden-booty-chest.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Golden Block",
+        "itemPrice": 0.01,
+        "frequency": 0.7248,
+        "image": "goldenblock.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "iced-out",
+    "caseName": "Iced out",
+    "casePrice": 4.27,
+    "image": "iced-out.png",
+    "volatility": "low",
+    "volatilityNumber": 0.8,
+    "items": [
+      {
+        "itemName": "Diamond dragon",
+        "itemPrice": 40,
+        "frequency": 0.0607,
+        "image": "diamond-dragon.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Diamond Horns",
+        "itemPrice": 15,
+        "frequency": 0.0775,
+        "image": "diamond-horns.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Diamond Flashaxe",
+        "itemPrice": 4,
+        "frequency": 0.1079,
+        "image": "diamond-flashaxe.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Diamond Rocket Shoes",
+        "itemPrice": 0.1,
+        "frequency": 0.2714,
+        "image": "diamond-rocket-shoes.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Diamond ring",
+        "itemPrice": 0.01,
+        "frequency": 0.4825,
+        "image": "diamond-ring.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "cheap-ninja",
+    "caseName": "Cheap Ninja",
+    "casePrice": 0.69,
+    "image": "cheap-ninja.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.467,
+    "items": [
+      {
+        "itemName": "Non La",
+        "itemPrice": 15,
+        "frequency": 0.0226,
+        "image": "non-la.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Cursed katana",
+        "itemPrice": 4.5,
+        "frequency": 0.0412,
+        "image": "cursed-katana.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Digital Ninja Mask",
+        "itemPrice": 2,
+        "frequency": 0.0618,
+        "image": "digital-ninja-mask.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Ninja Mask",
+        "itemPrice": 0.01,
+        "frequency": 0.8744,
+        "image": "ninja-mask.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "cheap-nice",
+    "caseName": "Cheap Nice",
+    "casePrice": 0.23,
+    "image": "cheap-nice.png",
+    "volatility": "mid",
+    "volatilityNumber": 1.4,
+    "items": [
+      {
+        "itemName": "Angel Wings",
+        "itemPrice": 1,
+        "frequency": 0.1371,
+        "image": "angel-wings.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Flame Scythe",
+        "itemPrice": 0.3,
+        "frequency": 0.1853,
+        "image": "flame-scythe.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Evoid's Fire-Nado",
+        "itemPrice": 0.1,
+        "frequency": 0.2439,
+        "image": "evoids-fire-nado.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Parrot wings",
+        "itemPrice": 0.01,
+        "frequency": 0.4337,
+        "image": "parrot-wings.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "crown",
+    "caseName": "Crown",
+    "casePrice": 29.21,
+    "image": "crown.png",
+    "volatility": "high",
+    "volatilityNumber": 9.6,
+    "items": [
+      {
+        "itemName": "Neptune's Crown",
+        "itemPrice": 3900,
+        "frequency": 0.0052,
+        "image": "neptunescrown.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Phoenix Crown",
+        "itemPrice": 150,
+        "frequency": 0.0265,
+        "image": "phoenixcrown.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Alaskan King Crab Crown",
+        "itemPrice": 45,
+        "frequency": 0.0483,
+        "image": "alaskan-king-crab-crown.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Challenge Crown",
+        "itemPrice": 15,
+        "frequency": 0.0836,
+        "image": "challengecrown.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Guild Challenge Crown",
+        "itemPrice": 0.15,
+        "frequency": 0.8364,
+        "image": "guild-challenge-crown.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "egypt",
+    "caseName": "Egypt",
+    "casePrice": 1.75,
+    "image": "egypt.png",
+    "volatility": "high",
+    "volatilityNumber": 6.9,
+    "items": [
+      {
+        "itemName": "Sun Blade",
+        "itemPrice": 125,
+        "frequency": 0.0094,
+        "image": "sun-blade.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Anubis Mask",
+        "itemPrice": 3.5,
+        "frequency": 0.0569,
+        "image": "anubismask.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Pineapple Pyramid Shirt",
+        "itemPrice": 2,
+        "frequency": 0.0752,
+        "image": "pineapple-pyramid-shirt.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Pineapple Pyramid Hat",
+        "itemPrice": 1,
+        "frequency": 0.1064,
+        "image": "pineapple-pyramid-hat.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Weather Machine - Arid",
+        "itemPrice": 0.02,
+        "frequency": 0.7521,
+        "image": "weather-machine-arid.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "dark",
+    "caseName": "Dark",
+    "casePrice": 3.51,
+    "image": "dark.png",
+    "volatility": "high",
+    "volatilityNumber": 11.4,
+    "items": [
+      {
+        "itemName": "Nightmare Devil Wings",
+        "itemPrice": 700,
+        "frequency": 0.0034,
+        "image": "nightmaredevilwings.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Nightmare Teeny Wings",
+        "itemPrice": 30,
+        "frequency": 0.0163,
+        "image": "nightmare-teeny-wings.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Shadow Crown",
+        "itemPrice": 15,
+        "frequency": 0.0231,
+        "image": "shadow-crown.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Black Burning eyes",
+        "itemPrice": 2,
+        "frequency": 0.0632,
+        "image": "black-burning-eyes.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Black Block",
+        "itemPrice": 0.01,
+        "frequency": 0.894,
+        "image": "black-block.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "monkey",
+    "caseName": "Monkey",
+    "casePrice": 0.3,
+    "image": "monkey.png",
+    "volatility": "mid",
+    "volatilityNumber": 1.1,
+    "items": [
+      {
+        "itemName": "Monkey Warrior's Pants",
+        "itemPrice": 1,
+        "frequency": 0.1477,
+        "image": "monkey-warriors-pants.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Monkey on your Back",
+        "itemPrice": 0.4,
+        "frequency": 0.1857,
+        "image": "monkey-on-your-back.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Capuchin Leash",
+        "itemPrice": 0.3,
+        "frequency": 0.1996,
+        "image": "capuchin-leash.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Angry Adventure Gorilla",
+        "itemPrice": 0.01,
+        "frequency": 0.467,
+        "image": "angry-adventure-gorilla.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "fresh-cut",
+    "caseName": "Fresh Cut",
+    "casePrice": 1.49,
+    "image": "fresh-cut.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.609,
+    "items": [
+      {
+        "itemName": "Phoenix Hair",
+        "itemPrice": 40,
+        "frequency": 0.0142,
+        "image": "phoenix-hair.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Fire Punk Hair",
+        "itemPrice": 11,
+        "frequency": 0.0271,
+        "image": "fire-punk-hair.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Seafoam Hair",
+        "itemPrice": 10,
+        "frequency": 0.0284,
+        "image": "seafoam-hair.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Intergalactic Warrior Hair",
+        "itemPrice": 8,
+        "frequency": 0.0318,
+        "image": "intergalactic-warrior-hair.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Messy Brown Hair",
+        "itemPrice": 0.01,
+        "frequency": 0.8985,
+        "image": "messy-brown-hair.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "blessing-needed",
+    "caseName": "Blessing Needed",
+    "casePrice": 1.59,
+    "image": "blessing-needed.png",
+    "volatility": "high",
+    "volatilityNumber": 93,
+    "items": [
+      {
+        "itemName": "Phonecats Hat",
+        "itemPrice": 15000,
+        "frequency": 0.0001,
+        "image": "phonecats-hat.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Bedrock",
+        "itemPrice": 0.01,
+        "frequency": 0.9999,
+        "image": "bedrock.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "Hearts",
+    "caseName": "Hearts",
+    "casePrice": 19.94,
+    "image": "hearts.png",
+    "volatility": "mid",
+    "volatilityNumber": 4.09,
+    "items": [
+      {
+        "itemName": "Golden Heartbreak Wings",
+        "itemPrice": 400,
+        "frequency": 0.0438,
+        "image": "golden-heartbreak-wings.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Cursed Heartbreak Wings",
+        "itemPrice": 12.5,
+        "frequency": 0.1041,
+        "image": "cursedheartbreakwings.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Heartbreak Wings",
+        "itemPrice": 0.5,
+        "frequency": 0.2329,
+        "image": "heartbreak-wings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Valentine",
+        "itemPrice": 0.01,
+        "frequency": 0.6192,
+        "image": "valentine.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "melis-kitchen",
+    "caseName": "Melis' kitchen",
+    "casePrice": 1.46,
+    "image": "melis-kitchen.png",
+    "volatility": "high",
+    "volatilityNumber": 18,
+    "items": [
+      {
+        "itemName": "Mint Julep",
+        "itemPrice": 600,
+        "frequency": 0.002,
+        "image": "mintjulep.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Golden Apple",
+        "itemPrice": 7,
+        "frequency": 0.0188,
+        "image": "goldenapple.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Gemonade",
+        "itemPrice": 0.15,
+        "frequency": 0.1286,
+        "image": "gemonade.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Hot Chocolate",
+        "itemPrice": 0.02,
+        "frequency": 0.3523,
+        "image": "hot-chocolate.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Sushi Knife",
+        "itemPrice": 0.01,
+        "frequency": 0.4983,
+        "image": "sushi-knife.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "builder",
+    "caseName": "Builder",
+    "casePrice": 1.24,
+    "image": "builder.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.85,
+    "items": [
+      {
+        "itemName": "Xenonite Crystal",
+        "itemPrice": 25,
+        "frequency": 0.01,
+        "image": "xenonitecrystal.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Antigravity Generator",
+        "itemPrice": 5,
+        "frequency": 0.05,
+        "image": "antigravitygenerator.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Guardian Pineapple",
+        "itemPrice": 12.5,
+        "frequency": 0.025,
+        "image": "guardianpineapple.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Weather Machine - Howling Sky",
+        "itemPrice": 7,
+        "frequency": 0.04,
+        "image": "weathermachinehowlingsky.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "World Lock",
+        "itemPrice": 0.01,
+        "frequency": 0.225,
+        "image": "worldlock.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Firehouse",
+        "itemPrice": 0.05,
+        "frequency": 0.2,
+        "image": "firehouse.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Punch Jammer",
+        "itemPrice": 0.07,
+        "frequency": 0.13,
+        "image": "punchjammer.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Zombie Jammer",
+        "itemPrice": 0.07,
+        "frequency": 0.13,
+        "image": "zombiejammer.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Signal Jammer",
+        "itemPrice": 0.01,
+        "frequency": 0.14,
+        "image": "signaljammer.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.05,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "crystal",
+    "caseName": "Crystal",
+    "casePrice": 0.19,
+    "image": "crystal.png",
+    "volatility": "high",
+    "volatilityNumber": 5.83,
+    "items": [
+      {
+        "itemName": "Crystal Cape",
+        "itemPrice": 4.01,
+        "frequency": 0.002,
+        "image": "crystalcape.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Black Crystal Dragon",
+        "itemPrice": 2,
+        "frequency": 0.004,
+        "image": "blackcrystaldragon.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Crystal Infused Sword",
+        "itemPrice": 111,
+        "frequency": 0.0001,
+        "image": "crystalinfusedsword.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Crystal Crown",
+        "itemPrice": 5,
+        "frequency": 0.002,
+        "image": "crystalcrown.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Crystal Block",
+        "itemPrice": 0.07,
+        "frequency": 0.3,
+        "image": "crystalblock.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Red Crystal Wings",
+        "itemPrice": 0.3,
+        "frequency": 0.08,
+        "image": "redcrystalwings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Green Crystal Wings",
+        "itemPrice": 0.3,
+        "frequency": 0.06,
+        "image": "greencrystalwings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Blue Crystal Wings",
+        "itemPrice": 0.3,
+        "frequency": 0.06,
+        "image": "bluecrystalwings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Purple Crystal Wings",
+        "itemPrice": 0.3,
+        "frequency": 0.06,
+        "image": "purplecrystalwings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Golden Crystal Wings",
+        "itemPrice": 1.3,
+        "frequency": 0.015,
+        "image": "goldencrystalwings.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Aqua Crystal Wings",
+        "itemPrice": 0.3,
+        "frequency": 0.06,
+        "image": "aquacrystalwings.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.3569,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "rayman",
+    "caseName": "Rayman Case",
+    "casePrice": 3.09,
+    "image": "rayman.png",
+    "volatility": "high",
+    "volatilityNumber": 7.5,
+    "items": [
+      {
+        "itemName": "Rayman's Fist",
+        "itemPrice": 600,
+        "frequency": 0.0015,
+        "image": "raymansfist.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Rayman's Hair",
+        "itemPrice": 5,
+        "frequency": 0.14,
+        "image": "raymanshair.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Rayman's Hoodie",
+        "itemPrice": 2,
+        "frequency": 0.22,
+        "image": "raymanshoodie.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Rayman's Shoes",
+        "itemPrice": 0.5,
+        "frequency": 0.24,
+        "image": "raymansshoes.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Rayman's Nose",
+        "itemPrice": 5,
+        "frequency": 0.14,
+        "image": "raymansnose.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Grass",
+        "itemPrice": 0.01,
+        "frequency": 0.1295,
+        "image": "grass.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.129,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "halloween",
+    "caseName": "Halloween",
+    "casePrice": 13.5,
+    "image": "halloween.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.16,
+    "items": [
+      {
+        "itemName": "Nightmare Devil Wings",
+        "itemPrice": 600,
+        "frequency": 0.006,
+        "image": "nightmaredevilwings.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "The Beast with a Thousand Eyes Mask",
+        "itemPrice": 150,
+        "frequency": 0.015,
+        "image": "thebeastwiththousandeyes.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Posessing Scarf",
+        "itemPrice": 400,
+        "frequency": 0.01,
+        "image": "posessingscarf.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Spooky Stained Glass Scepter",
+        "itemPrice": 20,
+        "frequency": 0.06,
+        "image": "spookystainedglassscepter.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Cursed Heart Break Wings",
+        "itemPrice": 12.5,
+        "frequency": 0.06,
+        "image": "cursedheartbreakwings.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Dark Sunset Cape",
+        "itemPrice": 7.5,
+        "frequency": 0.1,
+        "image": "darksunsetcape.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Cultist Hood",
+        "itemPrice": 0.05,
+        "frequency": 0.1,
+        "image": "cultisthood.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Cultist Robe",
+        "itemPrice": 0.05,
+        "frequency": 0.14,
+        "image": "cultistrobe.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Candy Corn",
+        "itemPrice": 0.01,
+        "frequency": 0.24,
+        "image": "candycorn.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Cobweb",
+        "itemPrice": 0.01,
+        "frequency": 0.269,
+        "image": "cobweb.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "summer",
+    "caseName": "Summer",
+    "casePrice": 4.6,
+    "image": "summer.png",
+    "volatility": "high",
+    "volatilityNumber": 11.52,
+    "items": [
+      {
+        "itemName": "Super Summer Surprise",
+        "itemPrice": 0.5,
+        "frequency": 0.08,
+        "image": "supersummersurprise.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Summer Surprise",
+        "itemPrice": 0.04,
+        "frequency": 0.082,
+        "image": "summersurprise.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Seaside Sun Hat",
+        "itemPrice": 1.5,
+        "frequency": 0.08,
+        "image": "seasidesunhat.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Mint Julep",
+        "itemPrice": 400,
+        "frequency": 0.002,
+        "image": "mintjulep.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Yellow Umbrella",
+        "itemPrice": 7.5,
+        "frequency": 0.07,
+        "image": "yellowumbrella.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Beach Blast",
+        "itemPrice": 0.01,
+        "frequency": 0.1,
+        "image": "beachblast.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Sand",
+        "itemPrice": 0.01,
+        "frequency": 0.1,
+        "image": "sand.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Weather Machine - Atlantis",
+        "itemPrice": 125,
+        "frequency": 0.01,
+        "image": "weathermachineatlantis.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Neptune Crown",
+        "itemPrice": 2500,
+        "frequency": 0.0002,
+        "image": "neptunecrown.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Phoenix Pacifier",
+        "itemPrice": 65,
+        "frequency": 0.018,
+        "image": "phoenixpacifier.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Lava",
+        "itemPrice": 0.01,
+        "frequency": 0.4578,
+        "image": "lava.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "winter",
+    "caseName": "Winter",
+    "casePrice": 1.25,
+    "image": "winter.png",
+    "volatility": "high",
+    "volatilityNumber": 6.9,
+    "items": [
+      {
+        "itemName": "Ice Horse",
+        "itemPrice": 0.1,
+        "frequency": 0.385,
+        "image": "icehorse.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Siberian Tiger Block",
+        "itemPrice": 0.05,
+        "frequency": 0.15,
+        "image": "siberiantigerblock.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Axe Of Winter",
+        "itemPrice": 2.5,
+        "frequency": 0.06,
+        "image": "axeofwinter.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Winter Robe",
+        "itemPrice": 0.1,
+        "frequency": 0.15,
+        "image": "winterrobe.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Sock On The Wall",
+        "itemPrice": 0.01,
+        "frequency": 0.07,
+        "image": "sockonthewall.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Snow Leopard Shawl",
+        "itemPrice": 50,
+        "frequency": 0.002,
+        "image": "snowleopardshawl.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Giant Red Bow",
+        "itemPrice": 0.1,
+        "frequency": 0.15,
+        "image": "giantredbow.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Winter Frost Bow",
+        "itemPrice": 5,
+        "frequency": 0.015,
+        "image": "winterfrostbow.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Weather Machine - Holiday Haven",
+        "itemPrice": 2.5,
+        "frequency": 0.015,
+        "image": "weathermachineholidayhaven.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "The Beast with a Thousand Eyes Mask",
+        "itemPrice": 250,
+        "frequency": 0.003,
+        "image": "thebeastwiththousandeyesmask.png",
+        "rarity": 8
+      }
+    ]
+  },
+  {
+    "_id": "iotm",
+    "caseName": "IOTM",
+    "casePrice": 38,
+    "image": "iotm.png",
+    "volatility": "mid",
+    "volatilityNumber": 2.2,
+    "items": [
+      {
+        "itemName": "Nightking's Cape - Midnight Blue",
+        "itemPrice": 3000,
+        "frequency": 0.003,
+        "image": "nightkingscapemidnightblue.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Hovernator Drone - Golden",
+        "itemPrice": 900,
+        "frequency": 0.008,
+        "image": "hovernatordronegolden.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Rayman's Fist",
+        "itemPrice": 600,
+        "frequency": 0.012,
+        "image": "raymansfist.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Royal Lock",
+        "itemPrice": 225,
+        "frequency": 0.015,
+        "image": "royallock.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Magplant 5000",
+        "itemPrice": 120,
+        "frequency": 0.03,
+        "image": "magplant5000.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Growscan 9000",
+        "itemPrice": 80,
+        "frequency": 0.035,
+        "image": "growscan9000.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Raptor Legs",
+        "itemPrice": 32.5,
+        "frequency": 0.055,
+        "image": "raptorlegs.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Zraei's Dragoscarf",
+        "itemPrice": 7,
+        "frequency": 0.07,
+        "image": "zraeisdragoscarf.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Zephyr Helm",
+        "itemPrice": 5,
+        "frequency": 0.07,
+        "image": "zephyrhelm.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Soul Scythe",
+        "itemPrice": 4.5,
+        "frequency": 0.07,
+        "image": "soulscythe.png",
+        "rarity": 2
+      },
+      {
+        "itemName": "Dirt",
+        "itemPrice": 0.01,
+        "frequency": 0.632,
+        "image": "dirt.png",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_id": "lock",
+    "caseName": "Lock",
+    "casePrice": 3.7,
+    "image": "lock.png",
+    "volatility": "mid",
+    "volatilityNumber": 4.2,
+    "items": [
+      {
+        "itemName": "Blue Gem Lock",
+        "itemPrice": 100,
+        "frequency": 0.01,
+        "image": "bluegemlock.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Diamond Lock",
+        "itemPrice": 1,
+        "frequency": 0.07,
+        "image": "diamondlock.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "World Lock",
+        "itemPrice": 0.01,
+        "frequency": 0.08,
+        "image": "worldlock.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Emerald Lock",
+        "itemPrice": 75,
+        "frequency": 0.008,
+        "image": "emeraldlock.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Ruby Lock",
+        "itemPrice": 20,
+        "frequency": 0.02,
+        "image": "rubylock.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Radical City Lock",
+        "itemPrice": 5,
+        "frequency": 0.08,
+        "image": "radicalcitylock.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Harmonic Lock",
+        "itemPrice": 4,
+        "frequency": 0.08,
+        "image": "harmoniclock.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Steampunk Lock",
+        "itemPrice": 2.5,
+        "frequency": 0.08,
+        "image": "steampunklock.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Royal Lock",
+        "itemPrice": 225,
+        "frequency": 0.002,
+        "image": "royallock.png",
+        "rarity": 8
+      },
+      {
+        "itemName": "Robotic Lock",
+        "itemPrice": 1,
+        "frequency": 0.078,
+        "image": "roboticlock.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "My First World Lock",
+        "itemPrice": 0.01,
+        "frequency": 0.36,
+        "image": "myfirstworldlock.png",
+        "rarity": 1
+      },
+      {
+        "itemName": "Small Lock",
+        "itemPrice": 0.01,
+        "frequency": 0.132,
+        "image": "smalllock.png",
+        "rarity": 1
+      }
+    ]
+  },
+
+  {
+    "_id": "growtoken",
+    "caseName": "Growtoken",
+    "casePrice": 20.62,
+    "image": "growtokenbox.png",
+    "volatility": "mid",
+    "volatilityNumber": 3.5,
+    "items": [
+      {
+        "itemName": "Seil's Magic Orbs",
+        "itemPrice": 100,
+        "frequency": 0.024,
+        "image": "seilsmagicorbs.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Puppy Leash",
+        "itemPrice": 100,
+        "frequency": 0.024,
+        "image": "puppyleash.png",
+        "rarity": 7
+      },
+      {
+        "itemName": "Meow Ears",
+        "itemPrice": 100,
+        "frequency": 0.024,
+        "image": "meowears.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Golden Pickaxe",
+        "itemPrice": 100,
+        "frequency": 0.024,
+        "image": "goldenpickaxe.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Frosty Hair",
+        "itemPrice": 100,
+        "frequency": 0.024,
+        "image": "frostyhair.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Puddy Leash",
+        "itemPrice": 90,
+        "frequency": 0.0253,
+        "image": "puddyleash.png",
+        "rarity": 6
+      },
+      {
+        "itemName": "Focused Eyes",
+        "itemPrice": 50,
+        "frequency": 0.0339,
+        "image": "focusedeyes.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "BLYoshi's Free Dirt",
+        "itemPrice": 20,
+        "frequency": 0.0534,
+        "image": "blyoshisfreedirt.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "Derpy Star Block",
+        "itemPrice": 15,
+        "frequency": 0.0619,
+        "image": "derpystarblock.png",
+        "rarity": 5
+      },
+      {
+        "itemName": "I love Dirt Shirt",
+        "itemPrice": 5,
+        "frequency": 0.1073,
+        "image": "ilovedirtshirt.png",
+        "rarity": 4
+      },
+      {
+        "itemName": "Experience Potion",
+        "itemPrice": 5,
+        "frequency": 0.1073,
+        "image": "experiencepotion.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Challenge Timer",
+        "itemPrice": 2.5,
+        "frequency": 0.1517,
+        "image": "challengetimer.png",
+        "rarity": 3
+      },
+      {
+        "itemName": "Growtoken",
+        "itemPrice": 0.5,
+        "frequency": 0.3392,
+        "image": "growtoken.png",
+        "rarity": 1
+      }
+    ]
+  }
+]

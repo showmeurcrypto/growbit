@@ -1,0 +1,480 @@
+GrowBit Terms of Service
+Date Last Modified: March 17, 2025
+
+Introduction
+Overview. GrowBit.net is a sweepstakes website for entertainment purposes only. The Website is not affiliated with, nor managed under, any formal company or organization.
+Acknowledgment. By accessing the Website at https://growbit.net/ (the “Website”) and its related online services (collectively, the “Services”), you agree to be bound by these Terms of Service (the “Terms”), along with any additional conditions that may apply. If you do not agree to these Terms, you must immediately cease using the Website and the Services.
+
+Scope of Use
+Permitted Use. The Website and the Services are made available strictly for personal and entertainment purposes. The sole purpose of the Website is to allow Users to play games and/or utilize the features provided.
+
+Outcome Determination
+Provably Fair System. All outcomes on the Website are determined exclusively by our provably fair system, which ensures the fairness of all results. You acknowledge and agree that any errors in the user interface do not entitle you to any item or reward offered on the Website.
+
+Privacy Policy
+Incorporation by Reference. The GrowBit.net Privacy Policy, which details the collection, use, and safeguarding of User information, is hereby incorporated into these Terms by reference. The Privacy Policy is available for review at https://growbit.net/privacy.
+
+Account Creation and Use
+Review Prior to Participation. Before creating a GrowBit.net account (“Account”), using the Website, or engaging in any activities on GrowBit.net, you are advised to carefully review this Agreement. Should you have any questions regarding these Terms or the Privacy Policy, please contact us via live chat on our Website.
+
+Arbitration Provision
+Binding Arbitration. Except as otherwise prohibited by applicable law, you agree that any claims or disputes arising out of or in connection with these Terms, or your use of the Website and its Services, shall be resolved exclusively through individual arbitration. By agreeing to arbitration, you expressly waive the right to have your claims decided by a judge or jury, as well as any right to pursue claims on a class, consolidated, or representative basis.
+
+1. Acceptance of Terms
+1.1 Consent to be Bound.
+By accessing the Website or participating in GrowBit.net, including engaging in its games and contests (each a “Contest”), the User hereby acknowledges that they have read, understood, and agree to be bound by these Terms. The User further represents that they are authorized and capable of accepting these Terms and all obligations, rules, and scoring systems applicable to each Contest in which they participate.
+
+1.2 Incorporation of Additional Terms.
+GrowBit.net reserves the right to introduce additional terms, rules, or conditions specific to certain Contests, which shall be deemed incorporated herein by reference. Participation in such Contests shall constitute the User’s agreement to be bound by these supplemental provisions. Should a User disagree with any of these Terms or additional conditions, they must immediately cease accessing or using GrowBit.net. Refusal to accept these Terms will preclude any participation in GrowBit.net activities, including those offered via the Website.
+
+1.3 Modification of Terms.
+GrowBit.net reserves the unilateral right to modify these Terms at any time without prior notice. Any amendments shall be effective upon posting, with the “Date Last Modified” duly updated. For material changes, GrowBit.net may notify Users by prominently displaying a notice on the Website or via email to the addresses on file. Continued use of GrowBit.net following such modifications shall constitute acceptance of the updated Terms. Any violation of these Terms may result in the immediate termination of the User’s authorization to access or use GrowBit.net.
+
+2. Age Restrictions
+2.1 Prohibition for Minors.
+Individuals under the age of eighteen (18) or below the age of majority in their jurisdiction are strictly prohibited from using GrowBit.net, regardless of parental or guardian consent.
+
+2.2 Compliance with Local Laws.
+Users are solely responsible for complying with the laws of the jurisdiction in which they reside or from which they access GrowBit.net. The use of GrowBit.net is void where such use is prohibited or restricted by law. In order to enter contests or claim prizes, Users may be required to furnish additional documentation or information to verify their identity and confirm eligibility. In the event of a dispute regarding identity or eligibility, GrowBit.net reserves the right, at its sole discretion, to utilize the collected information to resolve such matters.
+
+2.3 Jurisdictional Limitations and Assumption of Risk.
+GrowBit.net makes no representations or guarantees, whether express or implied, regarding the User’s legal right to participate in its contests or the suitability or availability of its offerings in any jurisdiction. No individual affiliated with or claiming affiliation with GrowBit.net is authorized to make such guarantees. GrowBit.net expressly disclaims any intent for its Services to be utilized in jurisdictions where participation is prohibited or restricted. By accessing and using the Services, the User acknowledges that such use is at their own risk and agrees that GrowBit.net shall not be held liable for any restrictions imposed by local laws. Unauthorized access or participation in GrowBit.net contests from restricted jurisdictions may result in the suspension or termination of the User’s account.
+
+2.4 Payment Method Ownership.
+By providing a payment method for contest participation, the User affirms that they are the lawful owner of the account associated therewith. The use of a payment method not owned by the User constitutes a violation of these Terms.
+
+2.5 Discretionary Access.
+GrowBit.net reserves the exclusive right, at its sole discretion, to deny access to its Services to any individual or entity.
+
+3. Accounts
+3.1 Creation and Maintenance.
+Each individual is permitted to create and maintain only one (1) account on GrowBit.net. In the event that GrowBit.net determines that a User has registered multiple accounts, GrowBit.net reserves the right, in its sole discretion, to take appropriate action, including but not limited to suspending or terminating such accounts, refusing any current or future use of GrowBit.net, and withholding or revoking any prizes awarded.
+
+3.2 Confidentiality of Login Credentials.
+The User shall be solely responsible for maintaining the confidentiality of their login credentials, including usernames and passwords. The sharing of an account or permitting any other person to use it to participate in contests shall be deemed a violation of these Terms. Should the User suspect any unauthorized use of their account, they must notify GrowBit.net immediately. GrowBit.net shall not be held liable for any loss or damage resulting from the User’s failure to report such unauthorized access in a timely manner.
+
+3.3 Accuracy of Registration Information.
+If registration information is required, the User is obligated to provide accurate, complete, and current information. The User must promptly update their registration details to reflect any changes.
+
+4. No Transfer
+4.1 Non-Transferability of Account.
+The User’s account on GrowBit.net is strictly non-transferable. The User is expressly prohibited from permitting any other person or third party, including but not limited to individuals under the age of eighteen (18), to access or use their account. This prohibition extends to any activity that may violate the laws or regulations of the User’s jurisdiction or that of the other party.
+
+4.2 Liability for Unauthorized Use.
+The User shall be fully responsible for any unauthorized use of their account and for any actions taken by another person or third party in connection therewith. Any individual found in violation of this provision may be subject to reporting to the relevant authorities and shall forfeit their account.
+
+4.3 Notification and Liability.
+GrowBit.net shall not be responsible for any loss or damage arising from unauthorized use of an account, whether or not the User was aware of such unauthorized access, unless the User has previously notified GrowBit.net that their login credentials are no longer secure. Until such notification is received, the User shall be held liable for any losses incurred as a result of unauthorized use of their account.
+
+5. Wallet
+5.1 Virtual Credits and Currency Representation.
+By adding funds to your wallet on the Website (the "Wallet"), you acknowledge and agree that the credits received, displayed either as DLS or represented by a currency symbol selected from the following options: USD (US Dollar - $), EUR (Euro - €), GBP (British Pound - £), or TRY (Turkish Lira - ₺) possess no real-world monetary value. Any virtual items associated with these credits similarly hold no actual monetary value, and the sole purpose of acquiring such items is to facilitate participation in games on the Website.
+
+5.2 Refund Policy.
+The representation of funds as "DLS" or via a designated currency symbol is provided strictly for entertainment purposes and does not imply any real-world value. Consequently, refunds shall not be issued for virtual products once an order is confirmed and delivered. Should you encounter issues with the receipt or access of purchased products, you must contact GrowBit.net via live chat on the Website.
+
+5.3 Wallet Transactions and Third-Party Processing.
+Wallet fund replenishment and withdrawals are processed directly by GrowBit.net. Notwithstanding the foregoing, cryptocurrency deposits and withdrawals are executed through an external service provider. In the event of any issues with a cryptocurrency deposit, you are advised to contact GrowBit.net immediately via live chat on the Website.
+
+5.4 Additional Purchase Terms.
+Additional terms and conditions may apply to purchases made on the Website, and by engaging in such transactions, you agree to comply with those terms. GrowBit.net reserves the right to modify the Website, its Services, or the pricing for products and services at any time without prior notice.
+
+5.5 Promotional Credits.
+Verified Users may replenish their Wallet with free credits through promotional initiatives, including but not limited to the Rain bonus, promo codes, or free daily rewards, subject to the specific terms and conditions governing each promotion.
+
+6. Browsers and Equipment
+6.1 Browser Support and Compatibility.
+You acknowledge and agree that GrowBit.net may discontinue support for certain web browsers. Continued use of the Website may require the download and use of a supported browser. GrowBit.net shall not be held liable for any limitations or incompatibilities arising from the use of unsupported browsers.
+
+6.2 Equipment and Internet Connection.
+The performance and functionality of GrowBit.net are dependent upon the capabilities of your computer equipment and the quality of your internet connection. Any fees incurred, including but not limited to internet or data usage fees, shall be the sole responsibility of the User.
+
+6.3 Account Registration and Credential Management.
+Access to and use of GrowBit.net require registration and login through the Website’s designated account system. You are solely responsible for managing your account credentials, including maintaining the confidentiality of your password. Should you suspect that your account password has been compromised, you must notify GrowBit.net immediately via live chat on the Website.
+
+6.4 Responsibility for Account Activity.
+You assume full responsibility for all activities conducted on your account or through the use of your password, irrespective of whether such activities are performed by you or by any unauthorized third party.
+
+7. Contests and Features
+7.1 Contests
+
+7.1.1 Overview.
+GrowBit.net provides a variety of contests on the Website, each offering Users the opportunity to win prizes. All contests are free to enter, and GrowBit.net reserves the sole discretion to modify, suspend, or cancel any contest at any time without prior notice. Each contest is governed by its own set of rules, which may differ from contest to contest and are hereby incorporated by reference into these Terms.
+
+7.1.2 User Obligations.
+It is the responsibility of each User to review and understand the rules applicable to any contest in which they elect to participate and to remain apprised of any subsequent modifications. By participating, the User agrees to abide by the current rules governing that contest. Failure to adhere to such rules shall result in the immediate and automatic forfeiture of any claim to contest participation and may also lead to the suspension or termination of the User’s access to GrowBit.net.
+
+7.1.3 Determination of Winners and Prohibitions.
+Winners for each contest shall be determined in accordance with the specific documentation and rules established for that contest. GrowBit.net shall not be utilized for any form of illicit gambling or similar activities.
+
+7.1.4 Credits for Participation.
+Users may add funds to the Website to obtain credits that may be used for participation in contests and games. Additionally, free credits may be provided through various promotions, including but not limited to the Rain bonus, promo codes, and Daily Free Rewards.
+
+7.2 Features
+7.2.1 Overview.
+GrowBit.net provides various contests and features to enhance User engagement, as described below:
+(i) Crash: A contest in which a multiplier increases from 1x upward. Users must cash out before the multiplier resets to zero.
+(ii) Mines: A strategic contest where Users reveal safe tiles on a grid while avoiding concealed mines; uncovering a mine ends the session.
+(iii) Slide: A contest where Users select one of three colors, with a spinning indicator determining the winning color based on predetermined odds.
+(iv) Plinko: A randomized contest in which a ball dropped onto a pegged board lands in prize slots, with the outcome determined by its trajectory.
+(v) Keno: A number-based contest where Users select numbers (typically 1–80) and win rewards based on matches with drawn numbers.
+(vi) Dice: A prediction contest where Users forecast a randomly generated number, with adjustable targets to balance risk and reward.
+(vii) Slots: A symbol-matching contest in which Users spin reels to align symbols for prize wins across various paylines.
+(viii) Coinflip PVP: A head-to-head contest in which Users wager credits on a coin toss by choosing heads or tails. A secure randomization process determines the outcome, awarding the combined wager to the winner. Participation is subject to the terms and conditions of GrowBit.net.
+(ix) Live Games: Real-time interactive contests where Users compete against live dealers or other participants for an immersive gaming experience.
+(x) Rain: A rewards feature whereby eligible Users (Bronze VIPs or higher) receive a base credit plus a percentage of total site activity during a 30-minute period. Misuse may result in account suspension or termination at GrowBit.net’s discretion.
+
+7.2.2 Commitment to Fairness and Transparency.
+All contests and features provided on GrowBit.net are structured to ensure fairness, transparency, and accessibility. GrowBit.net reserves the right to amend any aspect of the contests or features, including the rules, gameplay mechanics, or prize structures, at its sole discretion and without prior notice.
+
+8. Results and Winners
+8.1 Determination of Results.
+The results and winners for each contest shall be determined solely by GrowBit.net, and all such determinations shall be deemed final and binding. GrowBit.net reserves the right to make any necessary adjustments to contest results in the event of errors, irregularities, or noncompliance with these Terms, including the reversal of prizes where adjustments are warranted.
+
+8.2 Authority and Cooperation.
+By creating an account or participating in any contest, you expressly acknowledge and agree that GrowBit.net shall serve as the final authority on all determinations related to contest outcomes and that you shall cooperate with any necessary prize reversals or adjustments.
+
+8.3 Discretionary Denial and Invalidation.
+At its sole discretion, GrowBit.net may deny any participant the ability to enter contests for any reason. Furthermore, GrowBit.net reserves the right to invalidate contest results to prevent abusive, unfair, or potentially unlawful activity, or in cases where such behavior is reasonably suspected.
+
+8.4 Cancellation and Disqualification.
+GrowBit.net retains the right to cancel any contest at any time without restriction. Should a participant engage in conduct deemed improper, fraudulent, or detrimental to the Service or other participants, GrowBit.net may, at its sole discretion, disqualify the participant from a specific contest or from the Service in its entirety. In such instances, GrowBit.net may withhold prizes, require the return of any awarded prizes, and suspend, limit, or terminate the participant’s account. Examples of such improper conduct include, but are not limited to:
+(i) providing false or incomplete personal or payment information;
+(ii) violating the terms of any eligible payment method;
+(iii) using unauthorized methods, including scripts or automated tools, to accumulate points or prizes;
+(iv) tampering with the administration or operation of the Service or its associated systems;
+(v) harassing or abusing other participants; and
+(vi) engaging in any conduct that violates these Terms.
+GrowBit.net further reserves the right to notify relevant authorities and to pursue criminal or civil actions in response to such improper conduct.
+
+8.5 Force Majeure and Service Disruption.
+In the event that the Service cannot operate as intended due to circumstances including, but not limited to, corruption, technical issues, fraud, or other unforeseen disruptions, GrowBit.net reserves the right, at its sole discretion, to disqualify implicated individuals, cancel or modify contests, or suspend the Service. Notwithstanding such disruptions, winners may be selected from eligible entries received prior to the disruption, and any notifications regarding contest cancellations or modifications may be posted on the Website.
+
+8.6 Limitation of Liability.
+GrowBit.net shall not be liable for any failure to comply with these Terms arising from events beyond its reasonable control, including, but not limited to, natural disasters, acts of war, governmental actions, or other force majeure events. Such occurrences shall not constitute a breach of these Terms.
+
+9. Contest Prizes; Affidavit of Eligibility and Taxes
+9.1 Prize Details and Variability.
+Prizes for contests may vary and shall be detailed in the official rules for each specific contest. Users are advised to review these official rules for comprehensive details regarding prize offerings and any applicable restrictions.
+
+9.2 Non-Substitution and Transfer Restrictions.
+No substitution or transfer of any prize is permitted unless explicitly authorized in writing by GrowBit.net. All prizes are provided on an "AS IS" basis without any warranties, express or implied, including without limitation any warranties of merchantability or fitness for a particular purpose. In the event that any legal authority challenges the award or the receipt of a prize, GrowBit.net reserves the right, at its sole discretion, to revoke, cancel, suspend, substitute, or modify the prize.
+
+9.3 Erroneous Credits.
+Any prizes mistakenly credited to a User’s account shall remain the property of GrowBit.net and will be deducted from the account upon confirmation of the error. Should a User withdraw any winnings prior to the identification of an error, the User shall be obligated to reimburse GrowBit.net the amount of the erroneously credited prize.
+
+9.4 Contest Completion and Refunds.
+Prizes will only be awarded upon the successful completion of a contest. GrowBit.net reserves the right to cancel any contest at its discretion. In the event of such a cancellation, all entry fees shall be refunded to the participants unless otherwise specified in these Terms.
+
+9.5 Affidavit of Eligibility and Tax Obligations.
+Each contest or promotion is subject to its own set of official rules, which may require the execution of an affidavit of eligibility and compliance with applicable tax reporting and payment obligations. Users are encouraged to review these rules carefully prior to participation.
+
+By participating in any contest, you acknowledge and agree to abide by these provisions, as well as any additional rules set forth in the official contest guidelines.
+
+10. Affidavit of Eligibility and Taxes
+10.1 Submission Requirements.
+To receive a prize, you may be required to complete and electronically submit an affidavit of eligibility, a liability release, and, where permitted, a publicity release (collectively, the “Affidavit”), together with any applicable tax forms. These documents will be provided to you electronically and must be completed and returned within seven (7) days of notification. By participating in a contest, you agree to submit such documents as requested.
+
+10.2 Forfeiture.
+Failure to return the required documents within the specified timeframe, unclaimed or undeliverable prize notifications, or any noncompliance with these Terms shall result in the forfeiture of the prize. GrowBit.net reserves the right, at its sole discretion, to award the forfeited prize to an alternate potential winner.
+
+10.3 Tax Obligations.
+You shall be solely responsible for any and all taxes associated with your receipt and use of any prizes.
+
+11. Prohibited Conduct
+11.1 General Prohibitions.
+By using GrowBit.net, you agree to refrain from engaging in any activities that are expressly prohibited. Without limiting the generality of the foregoing, prohibited conduct includes, but is not limited to, the following:
+(i) Falsifying Information: Providing false or incomplete personal information required for account registration, contest entry, or prize claims.
+(ii) Financial Fraud: Engaging in any form of financial fraud, including the unauthorized use of credit instruments to enter contests or claim prizes.
+(iii) Collusion: Collaborating with any individual in a manner that violates these Terms.
+(iv) Violation of Rules: Breaching any contest rules or these Terms of Use.
+(v) Multiple Entrants via Single Account: Using a single account to participate on behalf of multiple entrants or collaborating with others to manipulate contest outcomes.
+(vi) Misrepresentation: Impersonating or misrepresenting your affiliation with any person or entity.
+(vii) Unauthorized Access: Accessing, tampering with, or using non-public areas of GrowBit.net or its computer systems.
+(viii) System Exploitation: Attempting to probe, scan, or test the vulnerability of GrowBit.net or its related systems and networks, or breaching any security or authentication measures.
+(ix) Reverse Engineering: Deciphering, decompiling, disassembling, reverse engineering, or otherwise investigating any software or components used by GrowBit.net.
+(x) User Harm: Harming or threatening to harm other users, or interfering with their access to GrowBit.net through means such as viruses, overloading, flooding, spamming, or mail-bombing.
+(xi) Third-Party Payment Information: Providing payment information that does not belong to you.
+(xii) Abusive Use: Using GrowBit.net in an abusive manner that contradicts its intended purpose, policies, instructions, or applicable laws.
+(xiii) Data Harvesting: Systematically retrieving data or content from GrowBit.net to create compilations, directories, or similar resources, whether manually or by using bots, crawlers, spiders, or other automated tools.
+(xiv) Intellectual Property Infringement: Violating third-party intellectual property rights, including but not limited to making virtual items available on GrowBit.net in an unauthorized manner.
+(xv) Harmful Content: Promoting, linking to, or providing access to materials that GrowBit.net deems harmful or offensive, such as illegal content, pornographic material, or content that could damage GrowBit.net’s reputation.
+(xvi) Tampering: Tampering with the administration of contests, attempting to manipulate computer programs, or interfering with security measures associated with contests.
+(xvii) Improper Use of Rewards: Abusing rewards systems, including repeated farming of rewards in a manner contrary to their intended purpose, such as stacking free rewards or farming Rain rewards.
+(xviii) Avoiding In-Game Penalties: Using GrowBit.net to store Growtopia items as a means of evading in-game bans or for unauthorized reselling.
+
+11.2 Consequences.
+Failure to adhere to these prohibited conduct guidelines may result in the suspension or termination of your account, forfeiture of rewards, and, where applicable, legal action. GrowBit.net reserves the right to take any and all measures necessary to enforce these Terms, including reporting any improper conduct to the relevant authorities.
+
+12. Termination
+12.1 Right to Terminate or Suspend.
+GrowBit.net reserves the right to terminate or suspend access to the Service immediately and without prior notice or liability for any reason, including but not limited to any breach of these Terms of Service. Your account may be terminated or suspended immediately if such a breach is determined to have occurred.
+
+12.2 Survival of Provisions.
+Certain provisions of these Terms, by their nature, shall survive termination. These provisions include, without limitation, ownership rights, warranty disclaimers, indemnity obligations, and limitations of liability.
+
+12.3 Inactivity.
+GrowBit.net further reserves the right to suspend or terminate accounts that have been inactive for a period of 180 days or more. Upon termination, all rights to access GrowBit.net and any associated content, including your username, shall cease immediately.
+
+12.4 Post-Termination Obligations.
+If your account is terminated or suspended due to a violation of these Terms, GrowBit.net reserves the right to retain any funds remaining in the account to offset administrative and enforcement costs. You agree to comply with all restrictions and limitations imposed as a result of your account’s suspension or termination.
+
+12.5 Voluntary Termination.
+Should you wish to voluntarily terminate your account, you may contact GrowBit.net via live chat on the Website.
+
+13. DMCA: Monitoring and Copyright Complaints
+13.1 Content Monitoring and Discretionary Actions.
+GrowBit.net shall have the right, but not the obligation, to monitor, edit, disclose, refuse to post, or remove any content from the Website at any time, for any reason, in its sole discretion. While GrowBit.net endeavors to review content submitted to the Website, it is not required to review all such content. If notified of alleged violations, GrowBit.net may investigate and, at its discretion, remove content deemed to be in breach of these Terms; however, GrowBit.net shall not be held responsible for any content transmitted by Users or third parties, including but not limited to errors, defamation, libel, slander, falsehoods, obscenity, pornography, profanity, dangerous materials, or inaccuracies.
+
+13.2 Termination for Copyright Infringement.
+In appropriate circumstances and at its sole discretion, GrowBit.net may terminate access for Users who infringe upon the copyrights of others or otherwise violate these Terms.
+
+13.3 Reporting Copyright Infringement.
+If you believe that your copyrighted work has been copied and is accessible on the Website in a manner that constitutes copyright infringement, you may notify us electronically by providing the following information in accordance with the Digital Millennium Copyright Act (DMCA), 17 U.S.C. § 512:
+(i) Authorized Signature: An electronic signature of the person authorized to act on behalf of the owner of the copyright that is allegedly infringed;
+(ii) Description of Copyrighted Work: A description of the copyrighted work claimed to have been infringed, or, if multiple works are covered by one notification, a representative list thereof;
+(iii) Identification of Infringing Material: A description of the material that is claimed to be infringing, along with sufficient information to locate the material on the Website;
+(iv) Contact Information: Sufficient information to contact you, such as your email address;
+(v) Good Faith Statement: A statement that you have a good faith belief that the use of the material is not authorized by the copyright owner, its agent, or the law; and
+(vi) Accuracy and Authorization Statement: A statement, under penalty of perjury, that the information in the notification is accurate and that you are authorized to act on behalf of the copyright owner.
+
+All valid DMCA notices must be submitted via email to:
+Email Address: admin@growbit.net
+Email Subject: “DMCA Request”
+
+GrowBit.net will review and respond to all valid DMCA notices in compliance with applicable law. Only electronic submissions shall be accepted.
+
+14. Links to Third-Party Websites
+14.1 Third-Party Content.
+The Service may contain links to third-party websites or services that are not owned or controlled by GrowBit.net. GrowBit.net does not have control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
+
+14.2 Disclaimer of Liability.
+You acknowledge and agree that GrowBit.net shall not be liable, directly or indirectly, for any damage or loss incurred as a result of or in connection with your use of any third-party websites or services. Users are strongly encouraged to review the terms, conditions, and privacy policies of any third-party websites or services prior to engaging with them.
+
+15. Children
+15.1 Age Restriction.
+This Website is intended exclusively for individuals who are 18 years of age or older, or for those who have attained the age of majority in their jurisdiction of residence. Users under the age of 18 are strictly prohibited from using this Website for any purpose.
+
+15.2 User Representation.
+By accessing or using this Website, you represent and warrant that you are at least 18 years old or have reached the age of majority as defined by the applicable laws of your jurisdiction. Any use of the Website by an individual who does not meet this age requirement shall be considered a violation of these Terms.
+
+Individuals under the age of 18 are not permitted to provide any information to or post any content on the Website. Specifically, if you are under 18, you must not:
+
+Use or provide any information on the Website or through its features.
+Register on the Website.
+Make any purchases through the Website.
+Use any interactive or public comment features of the Website.
+Provide any personal information to us, including but not limited to your name, address, phone number, email address, or any screen name or username you may use.
+GrowBit.net does not knowingly collect personal information from individuals under the age of 18. If we discover that we have collected personal information from a user under 18 without verified parental consent, we will promptly delete that information. If you believe that we may have inadvertently collected information from or about a child under 18, please contact us immediately via live chat on our website.
+
+16. No Warranties
+16.1 "As-Is" Basis.
+The Website is provided strictly on an "as-is" basis without any representations, warranties, or conditions, whether express or implied. GrowBit.net disclaims all warranties, including, without limitation, any implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+16.2 No Guarantee of Availability or Accuracy.
+GrowBit.net does not warrant that the Website will always be available or accessible, nor does it guarantee that the information, materials, or content provided on the Website is complete, true, accurate, or non-misleading.
+
+16.3 No Professional Advice.
+Nothing on the Website shall be construed as legal, financial, medical, or any other type of professional advice. If you require such advice, you should consult with a suitably qualified professional.
+
+17. Affiliation
+17.1 Independence from Third Parties.
+GrowBit.net is not affiliated with, endorsed by, or associated with Ubisoft Entertainment, Growtopia, or any other trademarks owned by Ubisoft. All trademarks mentioned are the property of their respective owners.
+
+18. GrowBit.net Wallet
+18.1 Virtual Credits.
+By adding funds to your wallet on the Website (the "Wallet"), you acknowledge and agree that the credits you receive, displayed as DLS or represented by a currency symbol of your choice are purely virtual and carry no real-world monetary value.
+
+18.2 Use and Non-Refundability.
+These virtual credits are provided solely for the purpose of participating in contests and features on the Website. They cannot be exchanged for real money nor are they eligible for refunds. Similarly, any virtual items associated with these credits hold no actual monetary value and are not subject to refund.
+
+19. Returns and Refunds Policy
+19.1 Digital Products.
+Refunds are not issued for digital products once an order is confirmed and the product is delivered. Should you experience any issues with receiving or accessing your digital products, you must contact GrowBit.net via live chat on the Website for assistance.
+
+20. UI / Interface Errors
+20.1 No Entitlement from Errors.
+Users acknowledge that any interface glitches, errors, or manipulations do not entitle them to specific items or rewards. All outcomes are generated solely by our provably fair system.
+
+20.2 Finality of System Outcomes.
+Any interface errors or glitches shall not override the results produced by the provably fair system nor grant entitlement to additional compensation or items.
+
+21. Growtopia deposits and withdrawals using bots
+21.1 Reliance on Third-Party Services.
+All deposits and withdrawals processed via our deposit and withdrawal bots are dependent on the technical performance and reliability of external servers. GrowBit.net shall not be liable for any errors, delays, or disruptions caused by server malfunctions, connectivity issues, or other factors beyond our direct control.
+
+21.2 Reporting Requirements and Investigation.
+Users must report any errors, issues, or discrepancies related to deposits or withdrawals within twenty-four (24) hours of the transaction. Failure to report within this timeframe will relieve GrowBit.net of any obligation to resolve the issue. All claims will be thoroughly investigated; if our records contradict a user’s claim, GrowBit.net reserves the right to dismiss the claim and take appropriate action against the user, which may include account suspension or other penalties.
+
+21.3 Disclaimer of Liability.
+While GrowBit.net endeavors to ensure reliable and accurate transaction processing, we cannot be held liable for any events or errors beyond our direct control. Users are encouraged to verify all transactions and promptly report any concerns to facilitate a timely resolution.
+
+23. Limited License
+23.1 Grant of License.
+GrowBit.net grants you a limited, non-exclusive, non-transferable personal license to access and use the GrowBit.net platform solely for private, non-commercial purposes on a single device. For users who purchase certain paid features or upgrades, an additional limited, non-exclusive, non-transferable personal license is granted under the same conditions. This license does not transfer any ownership rights in GrowBit.net. All rights, including copyrights, trademarks, and other intellectual property rights in GrowBit.net, remain the exclusive property of GrowBit.net and its licensors.
+
+23.2 Prohibited Activities.
+You agree not to, and shall not permit any third party to, engage in any of the following activities with respect to GrowBit.net:
+(i) Copy or Redistribute: Reproduce or redistribute any part of GrowBit.net except as expressly permitted by this license.
+(ii) Modify or Adapt: Modify, translate, adapt, or create derivative works based on GrowBit.net, regardless of whether such works are patentable.
+(iii) Reverse Engineer: Reverse engineer, disassemble, decompile, or otherwise attempt to derive the source code or structure of GrowBit.net or any of its components.
+(iv) Remove Intellectual Property Notices: Remove, alter, or obscure any copyright, trademark, or proprietary notices displayed on GrowBit.net.
+(v) Distribute or Transfer: Rent, lease, lend, sell, sublicense, assign, or otherwise transfer access to GrowBit.net or its features to third parties, including via networks that allow simultaneous access by multiple devices.
+(vi) Bypass Security Measures: Circumvent, disable, or otherwise interfere with any digital rights management, copy protection, or security features implemented on GrowBit.net.
+(vii) Engage in Unlawful Activity: Use GrowBit.net in any manner that violates applicable laws or regulations, including, without limitation, any activities related to unlawful gambling.
+
+23.3 Consequences of Breach.
+Any violation of these restrictions may result in the immediate termination of your license to use GrowBit.net and may subject you to further legal action.
+
+24. Other Intellectual Property Rights
+24.1 Copyright and Ownership.
+All content on GrowBit.net, including without limitation technology, software, accounts, names, logos, graphics, music, and virtual goods, is either owned by or licensed to GrowBit.net and is protected by copyright, trade dress, patent, and trademark laws, as well as by international conventions and applicable intellectual property laws. GrowBit.net does not claim ownership of intellectual property belonging to third parties.
+
+24.2 Restrictions on Use.
+Unless expressly permitted by this Agreement, Users are prohibited from reproducing, distributing, modifying, creating derivative works of, publicly displaying, performing, republishing, downloading, storing, or transmitting any content available on GrowBit.net. In addition, Users shall not:
+(i) Modify Materials: Alter or modify any materials available on GrowBit.net;
+(ii) Reprint or Reproduce: Reprint or electronically reproduce any content from GrowBit.net, in whole or in part;
+(iii) Upload Proprietary Content: Upload or otherwise provide copyrighted or proprietary content to GrowBit.net without proper authorization from the rights holder;
+(iv) Remove Notices: Delete or alter any copyright, trademark, or proprietary notices on materials provided by GrowBit.net;
+(v) Commercial Use: Use any part of GrowBit.net or its materials for commercial purposes.
+
+24.3 Enforcement and Indemnification.
+Unauthorized actions including printing, copying, modifying, downloading, or granting access to GrowBit.net content in violation of this Agreement may result in the termination of your account, a permanent ban from the platform, and/or legal action. Content owners reserve the right to pursue civil or criminal remedies against Users for any intellectual property violations. Users agree to indemnify and hold GrowBit.net harmless from any claims, damages, or expenses arising from unauthorized or illegal activities conducted via their accounts.
+
+24.4 Trademarks.
+GrowBit.net owns or may register trademarks associated with its goods and services, including but not limited to graphics, logos, and service marks. Such trademarks may not be used without the prior written consent of GrowBit.net. Unauthorized use of any trademarks may result in legal consequences.
+
+25. Rights of Publicity
+25.1 Grant of Publicity Rights.
+By participating in GrowBit.net, you hereby grant GrowBit.net the irrevocable right to use your username, statements, biographical information, and city and state of residence for advertising, promotional, and marketing purposes related to GrowBit.net and its contests. This grant of rights is worldwide, in perpetuity, and applies to any media formats currently known or developed in the future, without requiring any compensation, notification, permission, review, or approval, except as prohibited by law.
+
+25.2 Public Announcements.
+GrowBit.net reserves the right to make public statements about contest participants and winners, whether on the Internet, in promotional materials, or by any other means, at any time before, during, or after a contest. You expressly consent to the announcement of winners' names on the platform in connection with GrowBit.net’s marketing and promotional efforts.
+
+25.3 Ideas and Inventions.
+Any comments, feedback, suggestions, ideas, or other submissions (collectively, “Ideas”) that you disclose, submit, or offer to GrowBit.net in connection with your use of the platform shall become the exclusive property of GrowBit.net. Unless prohibited by law, you agree that GrowBit.net may use, sell, exploit, or disclose these Ideas in any manner, without restrictions and without any obligation to compensate you.
+
+26. Conduct on Service
+26.1 Prohibited Activities.
+Users agree to use GrowBit.net solely for lawful purposes and in accordance with this Agreement. Without limiting the generality of the foregoing, you agree not to engage in any of the following activities:
+(i) Engage in Illegal Activities: Participate in any unlawful activities, including gambling or planning or facilitating illegal acts.
+(ii) Post Prohibited Content: Publish or transmit any content that is infringing, defamatory, abusive, offensive, obscene, pornographic, or otherwise in violation of applicable law, the rights of GrowBit.net, its Users, or any third-party.
+(iii) Threaten or Harass: Threaten, harass, abuse, or intimidate other Users.
+(iv) Send Spam: Generate or disseminate unsolicited emails or communications.
+(v) Introduce Harmful Code: Introduce software viruses or other malicious code that could damage, disrupt, or impair the functionality of GrowBit.net, its software, hardware, or telecommunications equipment.
+(vi) Automated Access: Use bots, scrapers, spiders, or other automated tools to access or interact with GrowBit.net without explicit written permission.
+(vii) Artificial Manipulation: Employ artificial means, such as creating multiple accounts or using unauthorized scripts, to manipulate contest outcomes or standings.
+(viii) Improper Use of Support Features: Abuse support or complaint mechanisms, including making false reports.
+(ix) Unauthorized Purposes: Use GrowBit.net in any manner not expressly authorized by this Agreement or in violation of any applicable laws, including those governing intellectual property.
+(x) Obtain Unauthorized Information: Seek to access or facilitate the access of account, password, or personal information belonging to other Users.
+(xi) False Identity: Create false identities, impersonate others, or misrepresent the origin of communications.
+(xii) Multiple Accounts: Create or use more than one account.
+(xiii) Account Transfer: Sell, transfer, or otherwise distribute an account or any account-related attributes.
+(xiv) Solicitation: Advertise, solicit, or promote the sale of goods or services to other Users without their explicit consent.
+(xv) Submit Off-Topic Content: Post or submit comments linking to affiliate programs, multi-level marketing schemes, irrelevant content, or spam.
+(xvi) Overload Infrastructure: Engage in activities that impose an unreasonable or disproportionate load on GrowBit.net’s infrastructure or interfere with its operations, including attempts to bypass access restrictions.
+(xvii) Undermine Contests: Deliberately tamper with or attempt to undermine contest operations, including unauthorized access or manipulation of contest-related systems.
+(xviii) Unwanted Communications: Transmit communications designed to obtain passwords, accounts, or other private information from other Users.
+(xix) Sell Profiles: Sell or transfer your profile or account details to another party.
+
+26.2 Violations and Consequences.
+Any use of GrowBit.net that violates the provisions set forth in Section 26 constitutes a material breach of this Agreement. Such breaches may result in immediate account suspension or termination, prohibition from further use of GrowBit.net, forfeiture of any rewards, and/or legal action. GrowBit.net reserves the right to seek all available remedies, including monetary damages and injunctive relief, and to pursue civil or criminal charges to the fullest extent permitted by law.
+
+26.3 Reporting Violations.
+If you observe abuse, improper conduct, or any violations of this Agreement, you are encouraged to report such incidents, along with any supporting evidence, via live chat on our Website. GrowBit.net will review and investigate all reported violations and take appropriate action as necessary.
+
+27. Limitations on Warranty and Liability
+27.1 Disclaimer of Warranties.
+Users expressly acknowledge and agree that their use of GrowBit.net is entirely at their own risk. The Website, contests, and services are provided on an "as is" and "as available" basis without any representations or warranties, express or implied. Neither GrowBit.net nor its affiliates, subsidiaries, licensors, contractors, agents, service providers, content providers, or any third parties involved in providing products or services through GrowBit.net (collectively, the “Providers”) warrant or guarantee that:
+(a) The Website, contests, or services will operate without interruption, errors, or technical issues;
+(b) GrowBit.net will be free from viruses, worms, malware, or other harmful components;
+(c) The services or content are fit for any specific purpose or free from infringement of proprietary rights.
+GrowBit.net disclaims all express and implied warranties to the fullest extent permitted by law, including without limitation, any warranties regarding the operation, security, or availability of goods, services, or offerings on or through the Platform. Furthermore, GrowBit.net makes no representations regarding the accuracy, reliability, or currency of any information, content, or services provided on the Website.
+
+27.2 No Responsibility for User-Generated Content.
+GrowBit.net is not responsible for any opinions, advice, views, statements, or contributions posted by Users or third parties, except where such content is explicitly provided by an authorized GrowBit.net representative.
+
+27.3 Limitations on Liability.
+To the fullest extent permitted by law, GrowBit.net and its Providers shall not be liable for any indirect, incidental, special, consequential, or exemplary damages, including without limitation, loss of profits, goodwill, data, or other intangible losses, arising out of or relating to:
+(a) The use or inability to use GrowBit.net;
+(b) Unauthorized access to or alteration of User transmissions or data;
+(c) User-generated content, including opinions, advice, or statements posted on GrowBit.net;
+(d) Any other matter relating to the use of GrowBit.net.
+In any event, regardless of the form of action, GrowBit.net’s aggregate liability shall not exceed the total amount paid directly by the User to GrowBit.net for the use of the Platform during their registration period, excluding any fees paid for products or services preceding the incident giving rise to the claim.
+
+27.4 Jurisdictional Limitations.
+If you reside in a jurisdiction that does not allow the exclusion of certain warranties or the limitation of liability for incidental or consequential damages, some or all of the limitations set forth above may not apply to you.
+
+28. Service and Maintenance
+28.1 Maintenance and Availability.
+GrowBit.net regularly performs maintenance on its systems to ensure the security and integrity of the Platform. During scheduled or unscheduled maintenance, some or all features of GrowBit.net may be temporarily unavailable. While Users will generally receive advance notice for scheduled maintenance, GrowBit.net reserves the right to conduct maintenance or updates with or without prior notice.
+
+28.2 Modifications and Discontinuation.
+GrowBit.net reserves the right to modify, limit, or discontinue any aspect of its operations at any time, including, but not limited to:
+(a) The availability of the Website;
+(b) Specific features or content on the Platform;
+(c) Contests and related offerings.
+
+28.3 Imposition of Restrictions.
+At its sole discretion, GrowBit.net may impose restrictions or limitations on features, functionality, or access to portions or the entirety of the Platform, with or without notifying Users, and without any liability to Users or third parties.
+
+28.4 User Assistance.
+Should you encounter issues while using GrowBit.net, including those related to User Accounts or other technical problems, please report such issues via live chat on our Website for prompt assistance.
+
+29. Disputes
+29.1 Good Faith Resolution.  
+In the event of any dispute between you and GrowBit.net, both parties agree to make a good faith effort to resolve the matter amicably within a reasonable timeframe. If an amicable resolution is not reached within 30 days from the start of discussions, either party may seek legal resolution through the courts of a mutually agreed-upon neutral jurisdiction.
+
+29.2 Notice and Initiation.  
+If a dispute arises, the initiating party must provide a written notice to the other party. Notices to GrowBit.net should be sent to the designated contact address, while notices to you will be sent to the email address registered with GrowBit.net; delivery to that email shall constitute valid notice.
+
+29.3 Binding Arbitration and Class Action Waiver.  
+Upon receipt of a dispute notice, both parties agree to attempt resolution through discussion. If the dispute remains unresolved after 30 days, the matter shall be referred to binding arbitration, except where GrowBit.net seeks injunctive or equitable relief. By agreeing to arbitration, you waive your right to a trial by jury and your right to participate in any class actions or similar collective legal proceedings. Arbitration will be conducted by a sole arbitrator under the streamlined arbitration rules of a recognized arbitration organization or an equivalent body, with hearings held in a mutually agreed neutral venue if required. The arbitrator’s decision shall be final and binding, and judgment on the award may be entered in any court of competent jurisdiction. Disputes shall be resolved on an individual basis and not consolidated with claims of others; if such consolidation is deemed unenforceable, the dispute shall be resolved in a court of competent jurisdiction agreed upon by the parties. GrowBit.net will cover administrative and arbitrator fees but not travel or other participant costs. Claims eligible for small claims court may proceed in that forum notwithstanding this Agreement.
+
+29.4 Governing Law and Service of Process.  
+These Terms, and any disputes arising in connection with them, shall be governed by and construed in accordance with the applicable laws, without regard to conflict of law principles. Service of process may be effected by mail or any other method deemed legally acceptable.
+
+30. Withdrawal Rules
+Withdrawals shall be limited exclusively to prizes and shall not encompass any deposits. All DLS must be fully expended in participation prior to becoming eligible for withdrawal, whether such withdrawal is effected as a prize or converted into cryptocurrency. Withdrawals are intended solely for the benefit of the end user and shall not, under any circumstances, be directed to or executed on behalf of third parties.
+
+To ensure compliance with applicable regulations and to safeguard security, GrowBit may require the completion of a Know Your Customer (KYC) verification process for all in-game and cryptocurrency withdrawals. Failure to comply with the KYC verification requirements, as requested by GrowBit, may result in restrictions on the user’s ability to withdraw funds.
+
+At its sole discretion, GrowBit reserves the right to process substantial withdrawal amounts in weekly or monthly installments. This measure is implemented to maintain financial stability and to mitigate potential abuse of the withdrawal system.
+
+GrowBit retains the exclusive authority to determine whether withdrawals shall be disbursed in cryptocurrency or in DLS. As reiterated, all withdrawals shall be processed exclusively for the end user and shall not be allocated or transferred to any third party.
+
+31. General Provisions
+31.1 Relationship of Parties and No Third-Party Beneficiaries.
+Users acknowledge that nothing in this Agreement constitutes the formation of a joint venture, partnership, employment, or agency relationship between them and GrowBit.net. Users shall not represent themselves as agents, employees, operators, or representatives of GrowBit.net. Furthermore, except as explicitly provided in this Agreement, no third-party beneficiaries shall be created.
+
+31.2 Assignment.
+GrowBit.net reserves the right to assign its rights and obligations under this Agreement and the Privacy Policy, in whole or in part, to any person or entity at any time without obtaining the consent of Users. Following such an assignment, GrowBit.net shall have no further obligations under this Agreement. Users may not assign or delegate any rights or obligations under this Agreement without prior written consent from GrowBit.net; any unauthorized assignment is void.
+
+31.3 Circumvention and Indemnification.
+Users agree not to circumvent or attempt to circumvent these Terms or to disrupt GrowBit.net’s operations (a “Circumvention Act”). Should GrowBit.net determine that a User has engaged in or attempted such conduct, GrowBit.net may pursue civil or criminal action and report the User to the appropriate authorities. Users further agree to indemnify and hold harmless GrowBit.net and its Providers from any claims, damages, liabilities, or costs (including legal fees) arising from misuse of the platform, violation of these Terms, or breaches of representations and warranties. GrowBit.net reserves the right to assume the exclusive defense of any claims at the User’s expense and will provide notice of such actions. These indemnification provisions shall survive the termination of a User’s account or use of GrowBit.net.
+
+31.4 Force Majeure.
+GrowBit.net shall not be responsible for delays or failures in performance resulting from circumstances beyond its reasonable control, including, but not limited to, acts of God, war, terrorism, civil unrest, natural disasters, labor strikes, or shortages of materials.
+
+31.5 Waiver and Severability.
+No failure or delay by GrowBit.net in enforcing any provision of this Agreement shall constitute a waiver of such provision or any other right. If any provision of this Agreement is held to be unlawful or unenforceable, such provision shall be amended or severed to reflect the parties’ intent as closely as possible without affecting the enforceability of the remaining provisions.
+
+31.6 Entire Agreement.
+This Agreement constitutes the entire understanding between Users and GrowBit.net regarding its subject matter and supersedes all prior agreements or understandings, whether written or oral. Any waiver of these Terms must be in writing and signed by GrowBit.net to be valid.
+
+31.7 Supplemental Policies.
+GrowBit.net may issue additional policies specific to certain services, such as contests, tournaments, or promotions. Users’ access to these services is subject to compliance with both this Agreement and any supplemental policies issued by GrowBit.net.
+
+32. Write-In Method of Entry
+32.1 Free DLS Claim Instructions.
+GrowBit.net is a completely free-to-play platform. Verified Users (via KYC) are eligible to claim 5 Free DLS by submitting a write-in request electronically. To submit your request, you must send an email to admin@growbit.net with the following information:
+(i) Your GrowBit.net account username (as displayed in the top-left box of your profile page).
+(ii) The full legal name associated with your account.
+(iii) The email address linked to your account.
+(iv) The statement: “I am writing in to claim my 5 DLS on GrowBit.net.”
+
+32.2 Important Guidelines.
+(i) Only one request per email will be processed.
+(ii) All provided information must exactly match your account details.
+(iii) Requests will be processed within 6–10 business days.
+(iv) Ensure that all details are accurate and complete to avoid delays or potential rejections.
